@@ -15,3 +15,5 @@ Technologies used in this project:
 -SQL
 
 -JUnit
+
+-TomEE
